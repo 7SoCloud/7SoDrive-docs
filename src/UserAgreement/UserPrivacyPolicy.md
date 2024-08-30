@@ -1,5 +1,5 @@
 ---
-title: 用户协议与负责声明
+title: 用户隐私政策
 icon: object-group
 order: 2
 category:
