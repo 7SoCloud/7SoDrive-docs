@@ -1,12 +1,16 @@
-# **七嗖云盘/银杏云盘 FAQ**
+---
+title: 七嗖云盘/银杏云盘 FAQ
+icon: book
+---
 
-## **这是什么？**
 
-七嗖云盘/银杏云盘是由鄢杰与荣6呀运营的私人云盘，注册后将有1TB大容量存储（银杏云盘有200GB），大存储不限速，支持WebDav的挂载与离线下载(需付费 详情请加入QQ群或TG群询问)。
+## 这是什么？
+
+七嗖云盘/银杏云盘是由鄢杰与荣6呀运营的公益云盘，注册后将有1TB大容量存储（银杏云盘有200GB），大存储不限速，支持WebDav的挂载与离线下载(需付费 详情请加入QQ群或TG群询问)。
 
 此文档由鄢杰 编写，最后更新于2024年8月23日。
 
-## **云盘的网址是什么？**
+## 云盘的网址是什么？
 
 七嗖云盘的网址是：[https://pan.7so.top](https://pan.7so.top "点击跳转")
 
@@ -14,7 +18,7 @@
 
 或者，请记住我们的首页：**[https://www.7so.top](https://www.7so.top "点击跳转")**
 
-## **是否有交流群？**
+## 是否有交流群？
 
 有。
 
@@ -24,11 +28,11 @@ Telegram频道：[https://t.me/+gBxBmtwvY9JhZTc1](https://t.me/+gBxBmtwvY9JhZTc1
 
 加入QQ群可获取最新消息及福利，加入tg群可以聊一些**进阶内容**。
 
-## **此云盘稳定吗？能长期开下去吗？**
+## 此云盘稳定吗？能长期开下去吗？
 
 已稳定运行近1年，尽量长久运营下去。
 
-## **打不开云盘？**
+## 打不开云盘？
 
 1. 请检查网址是否输入正确。
 2. 多刷新几次网页，或清除浏览器cookie和缓存。（不知道怎么清除浏览器cookie和缓存的百度，实在懒得百度看[这](https://baidux.tinoy.cn/?q=%E6%80%8E%E4%B9%88%E6%B8%85%E9%99%A4%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BC%93%E5%AD%98%E5%92%8Ccookie)。)
@@ -38,37 +42,37 @@ Telegram频道：[https://t.me/+gBxBmtwvY9JhZTc1](https://t.me/+gBxBmtwvY9JhZTc1
 6. 若页面显示错误代码请百度检查是不是自己问题。
 7. 如果真的不行请联系站长，注意如果仅说“网页打不开”等需付费5元解决问题，如提供网页打不开的最后时间，使用的浏览器，目前网络环境（WiFi/流量，属地，运营商），页面截图即可免单。
 
-## **注册相关？**
+## 注册相关？
 
-注册即代表您同意[《七嗖云盘用户协议与负责声明》](https://docs.7so.top/UserAgreement/UserAgreementAndDisclaimer.md)[《七嗖云盘用户隐私政策》](https://docs.7so.top/UserAgreement/UserPrivacyPolicy.md)。
+注册即代表您同意[《七嗖云盘用户协议与负责声明》](/UserAgreement/UserAgreementAndDisclaimer.md)[《七嗖云盘用户隐私政策》](/UserAgreement/UserPrivacyPolicy.md)。
 
 注册需要有效邮箱，因为需要接收验证码。
 
 因滥用问题，目前仅支持以下邮箱注册
 
-```126.com,163.com,gmail.com,outlook.com,qq.com,foxmail.com,yeah.net,hotmail.com,email.cn,sohu.com,sina.com,sina.cn
+```
 126.com,163.com,gmail.com,outlook.com,qq.com,foxmail.com,yeah.net,hotmail.com,email.cn,sohu.com,sina.com,sina.cn
 ```
 
 如有私自邮箱需求请联系站长，但后续忘记密码，更换邮箱需联系站长！
 
-## **如何注销？**
+## 如何注销？
 
 从2024年8月23日起，无在线注销方式，请联系QQ：**3343913067** 进行人工审核处理
 
-## **文件存储在哪里？**
+## 文件存储在哪里？
 
-所有文件存储于微软Onedrive数据中心，使用该云盘不仅代表您同意 [《](https://docs.7so.top/UserAgreement/UserAgreementAndDisclaimer.md)[七嗖云盘用户协议与负责声明](https://yijshtoow5e.feishu.cn/docx/KOgfdFUoyo34IJxCxpJcYPw4nnf)[》](https://yijshtoow5e.feishu.cn/docx/KOgfdFUoyo34IJxCxpJcYPw4nnf) [《七嗖云盘用户隐私政策》](https://docs.7so.top/UserAgreement/UserPrivacyPolicy.md)，也代表您同意 Onedrive相关协议 。
+所有文件存储于微软Onedrive数据中心，使用该云盘不仅代表您同意 [《七嗖云盘用户协议与负责声明》](/UserAgreement/UserAgreementAndDisclaimer.md)[《七嗖云盘用户隐私政策》](/UserAgreement/UserPrivacyPolicy.md)，也代表您同意 Onedrive相关协议 。
 
-## **上传/下载速度慢？**
+## 上传/下载速度慢？
 
 上传和下载均由微软Onedrive数据中心提供，即上传/下载速度取决于微软Onedrive数据中心。
 
 还有，请注意网页显示的上传速度是平均速度还是瞬时速度，如果是平均速度肯定会显示的慢一些，你可以切换至瞬时速度或直接在手机状态栏上查看。
 
-## **可以储存什么文件，不可以存储什么文件？**
+## 可以储存什么文件，不可以存储什么文件？
 
-已在[《七嗖云盘用户协议与负责声明》](https://applink.feishu.cn/client/message/link/open?token=AmMwR002gAADZRZdTyoDwBw%3D)中提及，你不可以上传有关以下的文件：
+已在[《七嗖云盘用户协议与负责声明》](/UserAgreement/UserAgreementAndDisclaimer.md)中提及，你不可以上传有关以下的文件：
 
 （1）违反宪法或法律法规规定的；
 （2）危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一的；
@@ -86,18 +90,24 @@ Telegram频道：[https://t.me/+gBxBmtwvY9JhZTc1](https://t.me/+gBxBmtwvY9JhZTc1
 
 如用户违反前述约定，依据相关法律、法规及国家政策要求，站长有权随时采取通知限期改正、中止或终止用户对七嗖云盘的使用, 并向主管机关报告措施，且如因此给站长或第三方造成损害的，用户还应当依法予以赔偿。
 
-## **能看得到我上传的文件吗？**
+## 能看得到我上传的文件吗？
 
 可以，但是仅用于文件合法性审查与相关机关单位要求下查阅/共享/删除/更改您的文件。
 
-## **一些对文件的操作指南？**
+## 一些对文件的操作指南？
 
 此云盘的文件管理在某些功能上与Windows文件资源管理器和Android文件管理器的逻辑类似，以下将教你一些基础的操作：
 
 1. 上传文件可单击右下角的“+”或直接拖拽文件至网页。
 2. 双击可以进入子文件夹或打开文件。
-3. 右键（电脑）/长按（手机）可以呼出右键菜单：![1724408763013](image/FAQ/1724408763013.png)
-4. 右键（电脑）/长按（手机）后，单击**图标处**可以进行**多选操作**。![1724408878330](image/FAQ/1724408878330.png)
+3. 右键（电脑）/长按（手机）可以呼出右键菜单：
+
+![](/assets/image/1724408763013_v20240830.webp)
+
+4. 右键（电脑）/长按（手机）后，单击**图标处**可以进行**多选操作**。
+
+![](/assets/image/1724408878330_v20240830.webp)
+
 5. 在**电脑端**上，长按Shift可以进行批量多选操作。
 6. 在**电脑端**上，长按Ctrl可以进行指定文件或文件夹多选操作。
 7. 在**电脑端**上，单击Esc可以退出当前操作。
@@ -110,7 +120,7 @@ Telegram频道：[https://t.me/+gBxBmtwvY9JhZTc1](https://t.me/+gBxBmtwvY9JhZTc1
 
 你已经上传过相同的文件了。现在可能是因为尽管你上传过，但是数据库是旧的，前台不显示，解决方法是重新新建个不同名称的文件夹或者联系站长/管理员把之前上传的给删了。
 
-## **下载文件Failed toget source link？**
+## 下载文件Failed toget source link？
 
 再试一次，还是不行请长按或右键单击“获取外链”下载，如果依旧请联系站长。若是APK，exe文件则为微软报毒，请自行避免检测，无法解决。
 
@@ -118,13 +128,15 @@ Telegram频道：[https://t.me/+gBxBmtwvY9JhZTc1](https://t.me/+gBxBmtwvY9JhZTc1
 
 刷新页面再试一次，如果还是不行请联系站长，有可能文件被微软报毒禁用了。
 
-## **是否有客户端？**
+## 是否有客户端？
 
 曾经有。可前往这里[下载](https://xz.7so.top "点击跳转")但是都是套壳，目前为完成适配或许你可以考虑使用PWA应用。
 
 PWA应用安装教程 **（注意：PWA应用不支持诸如Via这样的直接调用系统Webview的浏览器）（Chrome✅Edge✅Firefox✅Via❎ ⚠️不是我们不适配，是这类型浏览器没有这个接口）** ：
 
-Windows or MacOS or Linux：![1724409153299](image/FAQ/1724409153299.png)
+Windows or MacOS or Linux：
+
+![](/assets/image/1724409153299_v20240830.webp)
 
 Android:
 
@@ -134,17 +146,15 @@ Android:
 
 菜单中添加：
 
-![1724409627827](image/FAQ/1724409627827.png)![1724409632215](image/FAQ/1724409632215.png)
+![](/assets/image/1724409627827_v20240830.webp)
+![](/assets/image/1724409632215_v20240830.webp)
 
-## **支持WebDAV吗？怎么用？**
+## 支持WebDAV吗？怎么用？
 
 支持。在菜单单击“连接与挂载”，然后单击“创建新账号”，填写 **备注及根目录** ，然后单击确定即可。
 
-WebDAV的地址为： 七嗖：**https://pan.7so.top/dav** ；登录用户名统一为：**你上面显示的用户名，用户名即为邮箱**
+WebDAV的地址为： 七嗖：**https://pan.7so.top/dav** ；登录用户名统一为：**你上面显示的用户名，用户名即为邮箱**；密码为 **所创建账号的密码（不可以用登陆密码！！！！）** 。
 
- ；密码为 **所创建账号的密码（不可以用登陆密码！！！！）** 。
-
-![](file:///C:\Users\jacky\AppData\Local\Temp\ksohtml5804\wps6.jpg)
 
 ## 如何使用离线下载？
 
@@ -154,4 +164,3 @@ WebDAV的地址为： 七嗖：**https://pan.7so.top/dav** ；登录用户名统
 
 单击右下角的“➕”号即可添加。支持http(s)/磁力链接。
 
-![](file:///C:\Users\jacky\AppData\Local\Temp\ksohtml5804\wps9.png)
